@@ -1,5 +1,7 @@
-"links" : {
+{
+    "links" : {
     "sidebar" : {
         "Home" : "https://www.baidu.com"
+        }
     }
 }
